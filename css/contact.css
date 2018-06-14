@@ -46,6 +46,14 @@ body{
 }
 
 
+
+.weixin {
+  position: absolute;
+  top:275px;
+  right: 50px;
+  z-index: 9999;
+}
+
 /*head*/
 
 .head{ width:100%; background:url(images/head_bj.png) repeat-x; 
